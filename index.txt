@@ -6,3 +6,6 @@ calc 4680 https://Bouboule8079.github.io/Rpha-lOS-pkg/calc.elf Calculatrice (dec
 clock 6336 https://Bouboule8079.github.io/Rpha-lOS-pkg/clock.elf Horloge / Chronometre / Minuteur
 edit 9272 https://Bouboule8079.github.io/Rpha-lOS-pkg/edit.elf Editeur de texte nano-like (save-as)
 hello 1240 https://Bouboule8079.github.io/Rpha-lOS-pkg/hello.elf Programme de bienvenue
+snake 4800 https://Bouboule8079.github.io/Rpha-lOS-pkg/snake.elf Jeu du serpent
+mines 6240 https://Bouboule8079.github.io/Rpha-lOS-pkg/mines.elf Demineur (Minesweeper)
+sudoku 5976 https://Bouboule8079.github.io/Rpha-lOS-pkg/sudoku.elf Sudoku 9x9 (3 niveaux)
