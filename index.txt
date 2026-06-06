@@ -1,0 +1,4 @@
+# RaphaelOS package index
+# NOM TAILLE URL DESCRIPTION
+snake 4096 https://Bouboule8079.github.io/Rpha-lOS-pkg/snake.elf Le jeu serpent
+sudoku 8192 https://Bouboule8079.github.io/Rpha-lOS-pkg/sudoku.elf Sudoku
